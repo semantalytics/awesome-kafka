@@ -9,6 +9,7 @@
 - [kafka-connect-ui](https://github.com/landoop/kafka-connect-ui) Web tool for Kafka Connect
 - [kafka-topics-ui](https://github.com/landoop/kafka-topics-ui) Web Tool for Kafka Topics using Kafka Rest 
 - [schema-registry-ui](https://github.com/landoop/schema-registry-ui) Web tool for Avro Schema Registry
+- [kafkacat](https://github.com/edenhill/kafkacat)
 
 ## Kafka Streams
 
