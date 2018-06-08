@@ -16,12 +16,15 @@
 - [reactive-kafka](https://github.com/akka/reactive-kafka)
 - [kafka-monitor](https://github.com/linkedin/kafka-monitor)
 - [chaperone](https://github.com/uber/chaperone)
+- [uReplicator](https://github.com/uber/uReplicator) Improvement of Apache Kafka Mirrormaker 
+- [kafka-websocket](https://github.com/b/kafka-websocket)
 
 ## Kafka Streams
 
 ## Kafka Connect
 
 - [kafka-connect-protobuf-converter](https://github.com/blueapron/kafka-connect-protobuf-converter) Protobuf converter plugin for Kafka Connect 
+- [Maxwell](https://github.com/zendesk/maxwell)
 
 ## Confluent REST Proxy
 
