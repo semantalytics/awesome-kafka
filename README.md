@@ -19,6 +19,15 @@
 - [uReplicator](https://github.com/uber/uReplicator) Improvement of Apache Kafka Mirrormaker 
 - [kafka-websocket](https://github.com/b/kafka-websocket)
 - [kafka-unit](https://github.com/chbatey/kafka-unit)
+- [cruise-control](https://github.com/linkedin/cruise-control)
+- [jocko](https://github.com/travisjeffery/jocko) Kafka implemented in Golang with built-in coordination (No ZK dep, single binary install, Cloud Native)
+- [hermes](https://github.com/allegro/hermes) Fast and reliable message broker built on top of Kafka. 
+- [kt](https://github.com/fgeller/kt) Kafka command line tool 
+- [kafka-eagle](https://github.com/smartloli/kafka-eagle) Used to monitor the consumer status of Kafka clusters, as well as offsets, metadata and other information. 
+- [dockerkafka](https://github.com/pinterest/doctorkafka) DoctorKafka is a service for Kafka cluster auto healing and workload balancing 
+- [kasper](https://github.com/movio/kasper) Kasper is a lightweight library for processing Kafka topics. 
+- [Yelp kafka-utils](https://github.com/Yelp/kafka-utils)
+- [kafka-spark-consumer](https://github.com/dibbhatt/kafka-spark-consumer)
 
 ## Kafka Streams
 
