@@ -18,6 +18,7 @@
 - [chaperone](https://github.com/uber/chaperone)
 - [uReplicator](https://github.com/uber/uReplicator) Improvement of Apache Kafka Mirrormaker 
 - [kafka-websocket](https://github.com/b/kafka-websocket)
+- [kafka-unit](https://github.com/chbatey/kafka-unit)
 
 ## Kafka Streams
 
