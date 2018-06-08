@@ -39,3 +39,6 @@
 - [Arrow](https://arrow.apache.org/)
 - [Samza](https://samza.apache.org/)
 - [Nats](https://nats.io/)
+- [Chronicle-Queue](https://github.com/OpenHFT/Chronicle-Queue)
+- [CorfuDB](https://github.com/CorfuDB/CorfuDB)
+- [GenStage](https://hexdocs.pm/gen_stage/GenStage.html)
