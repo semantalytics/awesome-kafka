@@ -28,6 +28,7 @@
 - [kasper](https://github.com/movio/kasper) Kasper is a lightweight library for processing Kafka topics. 
 - [Yelp kafka-utils](https://github.com/Yelp/kafka-utils)
 - [kafka-spark-consumer](https://github.com/dibbhatt/kafka-spark-consumer)
+- [kafka-streams-cep](https://github.com/fhussonnois/kafkastreams-cep) Complex Event Processing on top of Kafka Streams 
 
 ## Kafka Streams
 
