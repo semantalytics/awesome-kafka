@@ -17,7 +17,7 @@
 
 ## Kafka Connect
 
--[kafka-connect-protobuf-converter](https://github.com/blueapron/kafka-connect-protobuf-converter) Protobuf converter plugin for Kafka Connect 
+- [kafka-connect-protobuf-converter](https://github.com/blueapron/kafka-connect-protobuf-converter) Protobuf converter plugin for Kafka Connect 
 ## KSQL
 
 ## Schema Registry
