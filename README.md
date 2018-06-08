@@ -10,7 +10,8 @@
 - [kafka-topics-ui](https://github.com/landoop/kafka-topics-ui) Web Tool for Kafka Topics using Kafka Rest 
 - [schema-registry-ui](https://github.com/landoop/schema-registry-ui) Web tool for Avro Schema Registry
 - [kafkacat](https://github.com/edenhill/kafkacat) Generic command line non-JVM Apache Kafka producer and consumer 
-- [kafka-jackson](https://github.com/jcustenborder/kafka-jackson)
+- [kafka-jackson](https://github.com/jcustenborder/kafka-jackson) Kafka Serializer, Deserializer, and Serde for Jackson JSON 
+- [kafka-lag-based-assignor](https://github.com/grantneale/kafka-lag-based-assignor) Kafka partition assignor that distributes lag evenly across a consumer group 
 
 ## Kafka Streams
 
