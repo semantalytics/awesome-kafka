@@ -66,3 +66,7 @@
 - [Chronicle-Queue](https://github.com/OpenHFT/Chronicle-Queue)
 - [CorfuDB](https://github.com/CorfuDB/CorfuDB)
 - [GenStage](https://hexdocs.pm/gen_stage/GenStage.html)
+
+## Learning
+
+- [Mastering Kafka Streams](https://jaceklaskowski.gitbooks.io/mastering-kafka-streams)
