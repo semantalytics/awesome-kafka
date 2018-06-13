@@ -31,7 +31,7 @@
 - [kafka-streams-cep](https://github.com/fhussonnois/kafkastreams-cep) Complex Event Processing on top of Kafka Streams 
 
 ## Kafka Streams
-
+- [mockedstreams](https://github.com/jpzk/mockedstreams)
 ## Kafka Connect
 
 - [kafka-connect-protobuf-converter](https://github.com/blueapron/kafka-connect-protobuf-converter) Protobuf converter plugin for Kafka Connect 
