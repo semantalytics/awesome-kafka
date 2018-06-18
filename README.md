@@ -2,6 +2,7 @@
 
 ## Kafka
 
+- [kafka-connect-client](https://github.com/SourceLabOrg/kafka-connect-client)
 - [kafka-streams-consumer-offsets-to-json](https://github.com/sderosiaux/kafka-streams-consumer-offsets-to-json)
 - [kafkaOffsetMonitor](https://github.com/quantifind/KafkaOffsetMonitor)
 - [kafka-lag-based-assignor](https://github.com/grantneale/kafka-lag-based-assignor) Kafka partition assignor that distributes lag evenly across a consumer group.
