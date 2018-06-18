@@ -39,6 +39,7 @@
 
 ## Kafka Connect
 
+- [Confluent Connector Hub](https://www.confluent.io/product/connectors/)
 - [kafka-connect-protobuf-converter](https://github.com/blueapron/kafka-connect-protobuf-converter) Protobuf converter plugin for Kafka Connect 
 - [Maxwell](https://github.com/zendesk/maxwell)
 - [kafka-connect-transformers](https://github.com/Landoop/kafka-connect-transformers)
