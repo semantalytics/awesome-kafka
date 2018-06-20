@@ -44,6 +44,7 @@
 - [Maxwell](https://github.com/zendesk/maxwell)
 - [kafka-connect-transformers](https://github.com/Landoop/kafka-connect-transformers)
 - [kafka-connect-mq-source](https://github.com/ibm-messaging/kafka-connect-mq-source)
+- [kafka-connect-jenkins](https://github.com/yaravind/kafka-connect-jenkins)
 
 ## Confluent REST Proxy
 
