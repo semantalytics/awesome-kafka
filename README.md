@@ -45,6 +45,7 @@
 - [kafka-connect-transformers](https://github.com/Landoop/kafka-connect-transformers)
 - [kafka-connect-mq-source](https://github.com/ibm-messaging/kafka-connect-mq-source)
 - [kafka-connect-jenkins](https://github.com/yaravind/kafka-connect-jenkins)
+- [toketi-kafka-connect-iohub](https://github.com/Azure/toketi-kafka-connect-iothub)
 
 ## Confluent REST Proxy
 
