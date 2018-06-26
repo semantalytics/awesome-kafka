@@ -32,6 +32,7 @@
 - [Yelp kafka-utils](https://github.com/Yelp/kafka-utils)
 - [kafka-spark-consumer](https://github.com/dibbhatt/kafka-spark-consumer)
 - [kafka-streams-cep](https://github.com/fhussonnois/kafkastreams-cep) Complex Event Processing on top of Kafka Streams 
+- [spring-kafka](https://github.com/spring-projects/spring-kafka)
 
 ## Kafka Streams
 
