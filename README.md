@@ -33,6 +33,7 @@
 - [kafka-spark-consumer](https://github.com/dibbhatt/kafka-spark-consumer)
 - [kafka-streams-cep](https://github.com/fhussonnois/kafkastreams-cep) Complex Event Processing on top of Kafka Streams 
 - [spring-kafka](https://github.com/spring-projects/spring-kafka)
+- [ksql-machine-learning-udf](https://github.com/kaiwaehner/ksql-machine-learning-udf)
 
 ## Kafka Streams
 
