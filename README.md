@@ -83,6 +83,7 @@
 
 - [Passionate Developer: Kafka Streams DSL vs processor API](http://mkuthan.github.io/blog/2017/11/02/kafka-streams-dsl-vs-processor-api/)
 - [Mastering Kafka Streams](https://jaceklaskowski.gitbooks.io/mastering-kafka-streams)
+- [Spark Streaming + Kafka Integration Guide](https://spark.apache.org/docs/latest/streaming-kafka-integration.html)
 
 ## Blogs
 - [CodingJunkie](http://codingjunkie.net/) Random Thoughts on Coding by Bill Bejeck
