@@ -52,6 +52,7 @@
 ## Confluent REST Proxy
 
 - [kafka-rest](https://github.com/confluentinc/kafka-rest)
+- [ksql-jdbc-driver](https://github.com/mmolimar/ksql-jdbc-driver)
 
 ## KSQL
 
