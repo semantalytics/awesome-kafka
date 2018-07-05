@@ -79,6 +79,7 @@
 - [Chronicle-Queue](https://github.com/OpenHFT/Chronicle-Queue)
 - [CorfuDB](https://github.com/CorfuDB/CorfuDB)
 - [GenStage](https://hexdocs.pm/gen_stage/GenStage.html)
+- [winton-kafa-streams](https://github.com/wintoncode/winton-kafka-streams) A Python implementation of Apache Kafka Streams 
 
 ## Learning
 
