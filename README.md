@@ -2,9 +2,9 @@
 
 ## Kafka
 
-- [kafka-connect-client](https://github.com/SourceLabOrg/kafka-connect-client)
-- [kafka-streams-consumer-offsets-to-json](https://github.com/sderosiaux/kafka-streams-consumer-offsets-to-json)
-- [kafkaOffsetMonitor](https://github.com/quantifind/KafkaOffsetMonitor)
+- [kafka-connect-client](https://github.com/SourceLabOrg/kafka-connect-client) A kafka-connect REST api client for java 
+- [kafka-streams-consumer-offsets-to-json](https://github.com/sderosiaux/kafka-streams-consumer-offsets-to-json) A Kafka Streams process to convert __consumer_offsets to a JSON-readable topic 
+- [kafkaOffsetMonitor](https://github.com/quantifind/KafkaOffsetMonitor) A little app to monitor the progress of kafka consumers and their lag wrt the queue. 
 - [kafka-lag-based-assignor](https://github.com/grantneale/kafka-lag-based-assignor) Kafka partition assignor that distributes lag evenly across a consumer group.
 - [kafka-pixy](https://github.com/mailgun/kafka-pixy) Kafka-Pixy is a dual API (gRPC and REST) proxy for Kafka with automatic consumer group control.
 - [Burrow](https://github.com/linkedin/Burrow) Kafka Consumer Lag Checking 
