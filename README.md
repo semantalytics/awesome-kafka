@@ -18,11 +18,11 @@
 - [secor](https://github.com/pinterest/secor) Secor is a service implementing Kafka log persistence
 - [reactive-kafka](https://github.com/akka/reactive-kafka)
 - [kafka-monitor](https://github.com/linkedin/kafka-monitor)
-- [chaperone](https://github.com/uber/chaperone)
+- [chaperone](https://github.com/uber/chaperone) A Kafka audit system 
 - [uReplicator](https://github.com/uber/uReplicator) Improvement of Apache Kafka Mirrormaker 
 - [kafka-websocket](https://github.com/b/kafka-websocket)
 - [kafka-unit](https://github.com/chbatey/kafka-unit)
-- [cruise-control](https://github.com/linkedin/cruise-control)
+- [cruise-control](https://github.com/linkedin/cruise-control) Cruise-control is the first of its kind to fully automate the dynamic workload rebalance and self-healing of a kafka cluster.
 - [jocko](https://github.com/travisjeffery/jocko) Kafka implemented in Golang with built-in coordination (No ZK dep, single binary install, Cloud Native)
 - [hermes](https://github.com/allegro/hermes) Fast and reliable message broker built on top of Kafka. 
 - [kt](https://github.com/fgeller/kt) Kafka command line tool 
