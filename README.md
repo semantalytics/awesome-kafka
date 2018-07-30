@@ -37,6 +37,7 @@
 - [kafkabeat](https://github.com/dearcode/kafkabeat) Elasticsearch Beats for kafka 
 - [sangrenel](https://github.com/jamiealquiza/sangrenel)
 ## Kafka Streams
+- [kafka-operator](https://github.com/krallistic/kafka-operator)
 
 - [mockedstreams](https://github.com/jpzk/mockedstreams)
 
