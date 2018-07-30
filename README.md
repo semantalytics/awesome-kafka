@@ -38,7 +38,7 @@
 - [sangrenel](https://github.com/jamiealquiza/sangrenel)
 ## Kafka Streams
 - [kafka-operator](https://github.com/krallistic/kafka-operator)
-
+- [kafkabalancer](https://github.com/CAFxX/kafkabalancer)
 - [mockedstreams](https://github.com/jpzk/mockedstreams)
 
 ## Kafka Connect
