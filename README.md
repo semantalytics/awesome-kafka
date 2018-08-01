@@ -82,6 +82,7 @@
 - [CorfuDB](https://github.com/CorfuDB/CorfuDB)
 - [GenStage](https://hexdocs.pm/gen_stage/GenStage.html)
 - [winton-kafa-streams](https://github.com/wintoncode/winton-kafka-streams) A Python implementation of Apache Kafka Streams 
+- [faust](https://github.com/robinhood/faust) Python Stream Processing 
 
 ## Learning
 
