@@ -40,6 +40,7 @@
 - [kafka-operator](https://github.com/krallistic/kafka-operator)
 - [kafkabalancer](https://github.com/CAFxX/kafkabalancer)
 - [mockedstreams](https://github.com/jpzk/mockedstreams)
+- [Strimzi](https://github.com/strimzi/strimzi-kafka-operator) Operator for deploying and running Apache Kafka on Kubernetes and OpenShift
 
 ## Kafka Connect
 
