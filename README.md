@@ -16,7 +16,7 @@
 - [kafka-jackson](https://github.com/jcustenborder/kafka-jackson) Kafka Serializer, Deserializer, and Serde for Jackson JSON 
 - [kafka-lag-based-assignor](https://github.com/grantneale/kafka-lag-based-assignor) Kafka partition assignor that distributes lag evenly across a consumer group
 - [secor](https://github.com/pinterest/secor) Secor is a service implementing Kafka log persistence
-- [reactive-kafka](https://github.com/akka/reactive-kafka)
+- [reactive-kafka](https://github.com/akka/reactive-kafka) Alpakka Kafka connector - Alpakka is a Reactive Enterprise Integration library for Java and Scala, based on Reactive Streams and Akka.
 - [kafka-monitor](https://github.com/linkedin/kafka-monitor)
 - [chaperone](https://github.com/uber/chaperone) A Kafka audit system 
 - [uReplicator](https://github.com/uber/uReplicator) Improvement of Apache Kafka Mirrormaker 
