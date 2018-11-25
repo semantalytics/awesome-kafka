@@ -94,3 +94,5 @@
 
 ## Blogs
 - [CodingJunkie](http://codingjunkie.net/) Random Thoughts on Coding by Bill Bejeck
+
+## Books
