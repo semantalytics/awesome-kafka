@@ -36,11 +36,12 @@
 - [ksql-machine-learning-udf](https://github.com/kaiwaehner/ksql-machine-learning-udf)
 - [kafkabeat](https://github.com/dearcode/kafkabeat) Elasticsearch Beats for kafka 
 - [sangrenel](https://github.com/jamiealquiza/sangrenel)
+- [Strimzi](https://github.com/strimzi/strimzi-kafka-operator) Operator for deploying and running Apache Kafka on Kubernetes and OpenShift
+
 ## Kafka Streams
 - [kafka-operator](https://github.com/krallistic/kafka-operator)
 - [kafkabalancer](https://github.com/CAFxX/kafkabalancer)
 - [mockedstreams](https://github.com/jpzk/mockedstreams)
-- [Strimzi](https://github.com/strimzi/strimzi-kafka-operator) Operator for deploying and running Apache Kafka on Kubernetes and OpenShift
 
 ## Kafka Connect
 
