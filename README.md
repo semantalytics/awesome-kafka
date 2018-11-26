@@ -96,3 +96,6 @@
 - [CodingJunkie](http://codingjunkie.net/) Random Thoughts on Coding by Bill Bejeck
 
 ## Books
+- [Kafka Streams in Action](https://www.manning.com/books/kafka-streams-in-action)
+- [Kafka in Action](https://www.manning.com/books/kafka-in-action)
+- [Kafka the Definitive Guide](http://shop.oreilly.com/product/0636920044123.do)
