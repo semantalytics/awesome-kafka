@@ -95,6 +95,7 @@
 
 ## Blogs
 - [CodingJunkie](http://codingjunkie.net/) Random Thoughts on Coding by Bill Bejeck
+- [Understanding Kafka with Factorio](https://hackernoon.com/understanding-kafka-with-factorio-74e8fc9bf181)
 
 ## Books
 - [Kafka Streams in Action](https://www.manning.com/books/kafka-streams-in-action)
