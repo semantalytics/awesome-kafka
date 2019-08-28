@@ -53,6 +53,7 @@
 - [kafka-connect-mq-source](https://github.com/ibm-messaging/kafka-connect-mq-source)
 - [kafka-connect-jenkins](https://github.com/yaravind/kafka-connect-jenkins)
 - [toketi-kafka-connect-iohub](https://github.com/Azure/toketi-kafka-connect-iothub)
+- [connectctl](https://github.com/90poe/connectctl) - Manage kafka connect connectors easily
 
 ## Confluent REST Proxy
 
