@@ -37,6 +37,8 @@
 - [kafkabeat](https://github.com/dearcode/kafkabeat) - Elasticsearch Beats for kafka 
 - [sangrenel](https://github.com/jamiealquiza/sangrenel)
 - [Strimzi](https://github.com/strimzi/strimzi-kafka-operator) - Operator for deploying and running Apache Kafka on Kubernetes and OpenShift
+- [Kafka Manager](https://github.com/yahoo/kafka-manager) - Web-based tool for managing a Kafka cluster
+- [Kafdrop](https://github.com/obsidiandynamics/kafdrop) - Web UI for browsing Kafka topics and consumer groups
 
 ## Kafka Streams
 - [kafka-operator](https://github.com/krallistic/kafka-operator)
@@ -88,6 +90,7 @@
 - [winton-kafa-streams](https://github.com/wintoncode/winton-kafka-streams) - A Python implementation of Apache Kafka Streams 
 - [faust](https://github.com/robinhood/faust) Python Stream Processing 
 - [redpanda](https://vectorized.io/)
+- [Meteor](https://github.com/obsidiandynamics/meteor) – Lightweight, broker-less alternative to Kafka for message streaming
 
 ## Learning
 
