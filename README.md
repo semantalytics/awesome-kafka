@@ -2,8 +2,8 @@
 
 ## Kafka
 
-- [kafka-connect-client](https://github.com/SourceLabOrg/kafka-connect-client) - A kafka-connect REST api client for java 
-- [kafka-streams-consumer-offsets-to-json](https://github.com/sderosiaux/kafka-streams-consumer-offsets-to-json) - A Kafka Streams process to convert __consumer_offsets to a JSON-readable topic 
+- [kareldb](https://github.com/rayokota/kareldb) - A Relational Database Backed by Apache Kafka.
+- [kcache](https://github.com/rayokota/kcache) - An In-Memory Cache Backed by Apache Kafka.
 - [kafkaOffsetMonitor](https://github.com/quantifind/KafkaOffsetMonitor) - A little app to monitor the progress of kafka consumers and their lag wrt the queue. 
 - [kafka-lag-based-assignor](https://github.com/grantneale/kafka-lag-based-assignor) Kafka partition assignor that distributes lag evenly across a consumer group.
 - [kafka-pixy](https://github.com/mailgun/kafka-pixy) - Kafka-Pixy is a dual API (gRPC and REST) proxy for Kafka with automatic consumer group control.
@@ -41,6 +41,7 @@
 - [Kafdrop](https://github.com/obsidiandynamics/kafdrop) - Web UI for browsing Kafka topics and consumer groups
 
 ## Kafka Streams
+- [kafka-streams-consumer-offsets-to-json](https://github.com/sderosiaux/kafka-streams-consumer-offsets-to-json) - A Kafka Streams process to convert consumer_offsets to a JSON-readable topic.
 - [kafka-operator](https://github.com/krallistic/kafka-operator)
 - [kafkabalancer](https://github.com/CAFxX/kafkabalancer)
 - [mockedstreams](https://github.com/jpzk/mockedstreams)
@@ -48,6 +49,7 @@
 
 ## Kafka Connect
 
+- [kafka-connect-client](https://github.com/SourceLabOrg/kafka-connect-client) - A kafka-connect REST api client for java 
 - [Confluent Connector Hub](https://www.confluent.io/product/connectors/)
 - [kafka-connect-protobuf-converter](https://github.com/blueapron/kafka-connect-protobuf-converter) - Protobuf converter plugin for Kafka Connect 
 - [Maxwell](https://github.com/zendesk/maxwell)
