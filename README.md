@@ -59,6 +59,7 @@
 - [toketi-kafka-connect-iohub](https://github.com/Azure/toketi-kafka-connect-iothub)
 - [connectctl](https://github.com/90poe/connectctl) - Manage kafka connect connectors easily
 - [kafka-connect-transform-common](https://github.com/jcustenborder/kafka-connect-transform-common) - Common Transforms for Kafka Connect.
+- [aiven-kafka-connect-transforms](https://github.com/aiven/aiven-kafka-connect-transforms) - A collection of Single Message Transformations (SMTs) for Kafka Connect.
 
 ## Confluent REST Proxy
 
