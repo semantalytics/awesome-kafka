@@ -2,6 +2,7 @@
 
 ## Kafka
 
+- [mirus](https://github.com/salesforce/mirus) - Mirus is a cross data-center data replication tool for Apache Kafka 
 - [kareldb](https://github.com/rayokota/kareldb) - A Relational Database Backed by Apache Kafka.
 - [kcache](https://github.com/rayokota/kcache) - An In-Memory Cache Backed by Apache Kafka.
 - [kafkaOffsetMonitor](https://github.com/quantifind/KafkaOffsetMonitor) - A little app to monitor the progress of kafka consumers and their lag wrt the queue. 
