@@ -2,6 +2,8 @@
 
 ## Kafka
 
+- [kadeck](https://www.xeotek.com/kadeck/)
+- [conduktor](https://www.conduktor.io/)
 - [mirus](https://github.com/salesforce/mirus) - Mirus is a cross data-center data replication tool for Apache Kafka 
 - [kareldb](https://github.com/rayokota/kareldb) - A Relational Database Backed by Apache Kafka.
 - [kcache](https://github.com/rayokota/kcache) - An In-Memory Cache Backed by Apache Kafka.
@@ -10,8 +12,6 @@
 - [kafka-pixy](https://github.com/mailgun/kafka-pixy) - Kafka-Pixy is a dual API (gRPC and REST) proxy for Kafka with automatic consumer group control.
 - [Burrow](https://github.com/linkedin/Burrow) - Kafka Consumer Lag Checking 
 - [kafka-tools](https://github.com/linkedin/kafka-tools) - A collection of tools for working with Apache Kafka. 
-- [kafka-connect-ui](https://github.com/landoop/kafka-connect-ui) - Web tool for Kafka Connect
-- [kafka-topics-ui](https://github.com/landoop/kafka-topics-ui) - Web Tool for Kafka Topics using Kafka Rest 
 - [schema-registry-ui](https://github.com/landoop/schema-registry-ui) - Web tool for Avro Schema Registry
 - [kafkacat](https://github.com/edenhill/kafkacat) - Generic command line non-JVM Apache Kafka producer and consumer 
 - [kafka-jackson](https://github.com/jcustenborder/kafka-jackson) - Kafka Serializer, Deserializer, and Serde for Jackson JSON 
@@ -42,7 +42,18 @@
 - [Kafka Manager](https://github.com/yahoo/kafka-manager) - Web-based tool for managing a Kafka cluster
 - [Kafdrop](https://github.com/obsidiandynamics/kafdrop) - Web UI for browsing Kafka topics and consumer groups
 
+## Kafka UI
+- [kafka-topics-ui](https://github.com/lensesio/kafka-topics-ui)
+- [kafka-connect-ui](https://github.com/landoop/kafka-connect-ui) - Web tool for Kafka Connect
+- [kafdrop](https://github.com/obsidiandynamics/kafdrop)
+- [kafka-webview](https://github.com/SourceLabOrg/kafka-webview)
+- [kafka-view](https://github.com/fede1024/kafka-view)
+- [cruise-control-ui](https://github.com/linkedin/cruise-control-ui)
+- [real-time-ui-with-kafka-streams](https://github.com/lucasjellema/real-time-ui-with-kafka-streams)
+- [tsujun](https://github.com/matsumana/tsujun) - Yet another Web UI for KSQL.
+
 ## Kafka Streams
+- [schema-registry-ui](https://github.com/lensesio/schema-registry-ui)
 - [kafka-streams-consumer-offsets-to-json](https://github.com/sderosiaux/kafka-streams-consumer-offsets-to-json) - A Kafka Streams process to convert consumer_offsets to a JSON-readable topic.
 - [kafka-operator](https://github.com/krallistic/kafka-operator)
 - [kafkabalancer](https://github.com/CAFxX/kafkabalancer)
