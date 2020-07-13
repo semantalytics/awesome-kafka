@@ -62,6 +62,7 @@
 
 ## Kafka Connect
 
+- [Apache Camel Kafka Connect](https://camel.apache.org/camel-kafka-connector/latest/index.html) - 340+ Apache Camel components as Kafka Connect connectors
 - [kafka-connect-client](https://github.com/SourceLabOrg/kafka-connect-client) - A kafka-connect REST api client for java 
 - [Confluent Connector Hub](https://www.confluent.io/product/connectors/)
 - [kafka-connect-protobuf-converter](https://github.com/blueapron/kafka-connect-protobuf-converter) - Protobuf converter plugin for Kafka Connect 
@@ -74,13 +75,16 @@
 - [kafka-connect-transform-common](https://github.com/jcustenborder/kafka-connect-transform-common) - Common Transforms for Kafka Connect.
 - [aiven-kafka-connect-transforms](https://github.com/aiven/aiven-kafka-connect-transforms) - A collection of Single Message Transformations (SMTs) for Kafka Connect.
 
-## Confluent REST Proxy
+## REST Proxy
 
-- [kafka-rest](https://github.com/confluentinc/kafka-rest)
+- [kafka-rest](https://github.com/confluentinc/kafka-rest) - Confluent REST Proxy
+- [strimzi-http-bridge](https://github.com/strimzi/strimzi-kafka-bridge) - Strimzi Kafka Bridge (AMQP & HTTP)
 
 ## KSQL
 
 ## Schema Registry
+
+- [apicurio-registry](https://github.com/Apicurio/apicurio-registry) - Apicurio API/schema registry (includes UI)
 - [schema-registry](https://github.com/confluentinc/schema-registry) - Confluent Schema registry for Kafka
 - [ksql-jdbc-driver](https://github.com/mmolimar/ksql-jdbc-driver)
 
