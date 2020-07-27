@@ -2,6 +2,7 @@
 
 ## Kafka
 
+- [sarama](https://github.com/Shopify/sarama)
 - [kadeck](https://www.xeotek.com/kadeck/)
 - [conduktor](https://www.conduktor.io/)
 - [mirus](https://github.com/salesforce/mirus) - Mirus is a cross data-center data replication tool for Apache Kafka 
