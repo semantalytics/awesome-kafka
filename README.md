@@ -2,7 +2,7 @@
 
 ## Kafka
 
-- [sarama](https://github.com/Shopify/sarama)
+- [sarama](https://github.com/Shopify/sarama) - Sarama is an MIT-licensed Go client library for Apache Kafka version 0.8 (and later).
 - [kadeck](https://www.xeotek.com/kadeck/)
 - [conduktor](https://www.conduktor.io/)
 - [mirus](https://github.com/salesforce/mirus) - Mirus is a cross data-center data replication tool for Apache Kafka 
