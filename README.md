@@ -80,6 +80,7 @@
 - [aiven-kafka-connect-transforms](https://github.com/aiven/aiven-kafka-connect-transforms) - A collection of Single Message Transformations (SMTs) for Kafka Connect.
 - [kafka-connect-file-pulse](https://github.com/streamthoughts/kafka-connect-file-pulse) - a polyvalent, scalable and reliable, Kafka Connector that makes it easy to parse, transform and stream any file, in any format, into Apache Kafka.
 - [aiven-kafka-connect-transforms](https://github.com/aiven/aiven-kafka-connect-transforms)
+- [kafka-connect-http](https://github.com/thomaskwscott/kafka-connect-http)
 
 ## REST Proxy
 
