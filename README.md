@@ -44,6 +44,7 @@
 - [Strimzi](https://github.com/strimzi/strimzi-kafka-operator) - Operator for deploying and running Apache Kafka on Kubernetes and OpenShift
 - [Kafka Manager](https://github.com/yahoo/kafka-manager) - Web-based tool for managing a Kafka cluster
 - [Kafdrop](https://github.com/obsidiandynamics/kafdrop) - Web UI for browsing Kafka topics and consumer groups
+- [Jackdaw](https://github.com/obsidiandynamics/jackdaw) - Simple configuration and mocking of Kafka clients
 
 ## Kafka UI
 - [kafka-topics-ui](https://github.com/lensesio/kafka-topics-ui)
@@ -129,8 +130,10 @@
 ## Blogs
 - [CodingJunkie](http://codingjunkie.net/) Random Thoughts on Coding by Bill Bejeck
 - [Understanding Kafka with Factorio](https://hackernoon.com/understanding-kafka-with-factorio-74e8fc9bf181)
+- [Apache Kafka in a Nutshell](https://medium.com/swlh/apache-kafka-in-a-nutshell-5782b01d9ffb)
 
 ## Books
+- [Effective Kafka](http://apachekafkabook.com/)
 - [Kafka Streams in Action](https://www.manning.com/books/kafka-streams-in-action)
 - [Kafka in Action](https://www.manning.com/books/kafka-in-action)
 - [Kafka the Definitive Guide](http://shop.oreilly.com/product/0636920044123.do)
