@@ -129,6 +129,7 @@
 ## Blogs
 - [CodingJunkie](http://codingjunkie.net/) Random Thoughts on Coding by Bill Bejeck
 - [Understanding Kafka with Factorio](https://hackernoon.com/understanding-kafka-with-factorio-74e8fc9bf181)
+- [Kafka Streams: A stream processing guide](https://www.loginradius.com/blog/async/stream-processing-using-kafka/)
 
 ## Books
 - [Kafka Streams in Action](https://www.manning.com/books/kafka-streams-in-action)
