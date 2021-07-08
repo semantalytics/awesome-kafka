@@ -6,7 +6,6 @@
 - [topicctl](https://github.com/segmentio/topicctl) - A tool for easy, declarative management of Kafka topics. Includes the ability to "apply" topic changes from YAML as well as a repl for interactive exploration of brokers, topics, consumer groups, messages, and more.
 - [sarama](https://github.com/Shopify/sarama) - Sarama is an MIT-licensed Go client library for Apache Kafka version 0.8 (and later).
 - [kadeck](https://www.xeotek.com/kadeck/) - Apache Kafka Monitoring, Kafka UI and data platform for Desktop or Web
-- [conduktor](https://www.conduktor.io/)
 - [mirus](https://github.com/salesforce/mirus) - Mirus is a cross data-center data replication tool for Apache Kafka 
 - [kareldb](https://github.com/rayokota/kareldb) - A Relational Database Backed by Apache Kafka.
 - [kcache](https://github.com/rayokota/kcache) - An In-Memory Cache Backed by Apache Kafka.
@@ -55,6 +54,7 @@
 - [real-time-ui-with-kafka-streams](https://github.com/lucasjellema/real-time-ui-with-kafka-streams)
 - [tsujun](https://github.com/matsumana/tsujun) - Yet another Web UI for KSQL.
 - [kowl](https://github.com/cloudhut/kowl)
+- [conduktor](https://www.conduktor.io/)
 
 ## Kafka Streams
 - [schema-registry-ui](https://github.com/lensesio/schema-registry-ui)
