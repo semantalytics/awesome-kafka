@@ -66,6 +66,7 @@
 
 ## Kafka Connect
 
+- [kafka-connect-file-pulse](https://github.com/streamthoughts/kafka-connect-file-pulse)
 - [Apache Camel Kafka Connect](https://camel.apache.org/camel-kafka-connector/latest/index.html) - 340+ Apache Camel components as Kafka Connect connectors
 - [kafka-connect-client](https://github.com/SourceLabOrg/kafka-connect-client) - A kafka-connect REST api client for java 
 - [Confluent Connector Hub](https://www.confluent.io/product/connectors/)
