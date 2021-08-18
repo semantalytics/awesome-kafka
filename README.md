@@ -44,6 +44,7 @@
 - [Strimzi](https://github.com/strimzi/strimzi-kafka-operator) - Operator for deploying and running Apache Kafka on Kubernetes and OpenShift
 - [Kafka Manager](https://github.com/yahoo/kafka-manager) - Web-based tool for managing a Kafka cluster
 - [Kafdrop](https://github.com/obsidiandynamics/kafdrop) - Web UI for browsing Kafka topics and consumer groups
+- [Strimzi Kafka CLI](https://github.com/systemcraftsman/strimzi-kafka-cli) - A CLI for Strimzi Kafka Operator
 
 ## Kafka UI
 - [kafka-topics-ui](https://github.com/lensesio/kafka-topics-ui)
