@@ -120,7 +120,7 @@
 - [GenStage](https://hexdocs.pm/gen_stage/GenStage.html)
 - [winton-kafa-streams](https://github.com/wintoncode/winton-kafka-streams) - A Python implementation of Apache Kafka Streams 
 - [faust](https://github.com/robinhood/faust) Python Stream Processing 
-- [redpanda](https://vectorized.io/)
+- [redpanda](https://vectorized.io/) A drop-in kafka replacement; 10x faster; no Zookeeper, no JVM. Written in C++.
 - [Meteor](https://github.com/obsidiandynamics/meteor) – Lightweight, broker-less alternative to Kafka for message streaming
 
 ## Learning
