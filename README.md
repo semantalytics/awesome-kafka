@@ -1,5 +1,9 @@
 # Awesome Kafka [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+[<img src="kafka-logo-tall.png" align="right" width="100">](https://kafka.apache.org/)
+
+Apache Kafka is a framework implementation of a software bus using stream-processing. It is an open-source software platform developed by the Apache Software Foundation written in Scala and Java. The project aims to provide a unified, high-throughput, low-latency platform for handling real-time data feeds.
+
 ## Contents
 
 - [Kafka](#kafka)
