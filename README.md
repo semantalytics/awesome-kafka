@@ -1,5 +1,20 @@
 # Awesome Kafka [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+## Contents
+
+- [Kafka](#kafka)
+- [Kafka UI](#kafka-ui)
+- [Kafka Streams](#kafka-streams)
+- [Kafka Connect](#kafka-connect)
+- [REST Proxy](#rest-proxy)
+- [KSQL](#ksql)
+- [Schema Registry](#schema-registry)
+- [Other Awesome Kafka](#other-awesome-kafka)
+- [Kafkaesque](#kafkaesque)
+- [Learning](#learning)
+- [Blogs](#blogs)
+- [Books](#books)
+
 ## Kafka
 
 - [doctorkafka](https://github.com/pinterest/doctorkafka)
@@ -58,6 +73,7 @@
 - [kowl](https://github.com/cloudhut/kowl)
 
 ## Kafka Streams
+
 - [schema-registry-ui](https://github.com/lensesio/schema-registry-ui)
 - [kafka-streams-consumer-offsets-to-json](https://github.com/sderosiaux/kafka-streams-consumer-offsets-to-json) - A Kafka Streams process to convert consumer_offsets to a JSON-readable topic.
 - [kafka-operator](https://github.com/krallistic/kafka-operator)
@@ -130,10 +146,12 @@
 - [Spark Streaming + Kafka Integration Guide](https://spark.apache.org/docs/latest/streaming-kafka-integration.html)
 
 ## Blogs
+
 - [CodingJunkie](http://codingjunkie.net/) Random Thoughts on Coding by Bill Bejeck
 - [Understanding Kafka with Factorio](https://hackernoon.com/understanding-kafka-with-factorio-74e8fc9bf181)
 
 ## Books
+
 - [Kafka Streams in Action](https://www.manning.com/books/kafka-streams-in-action)
 - [Kafka in Action](https://www.manning.com/books/kafka-in-action)
 - [Kafka the Definitive Guide](http://shop.oreilly.com/product/0636920044123.do)
