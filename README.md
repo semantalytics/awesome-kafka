@@ -56,6 +56,7 @@
 - [real-time-ui-with-kafka-streams](https://github.com/lucasjellema/real-time-ui-with-kafka-streams)
 - [tsujun](https://github.com/matsumana/tsujun) - Yet another Web UI for KSQL.
 - [kowl](https://github.com/cloudhut/kowl)
+- [akhq](https://akhq.io)
 
 ## Kafka Streams
 - [schema-registry-ui](https://github.com/lensesio/schema-registry-ui)
