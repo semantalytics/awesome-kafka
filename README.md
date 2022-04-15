@@ -1,7 +1,8 @@
 # awesome-kafka [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 ## Kafka
-
+- [Firehose](https://github.com/odpf/firehose) - Firehose is an extensible, no-code, and cloud-native service to load real-time streaming data from Kafka to data stores, data lakes, and analytical storage systems.
+- [Meteor](https://github.com/odpf/meteor) - Meteor is a scalable, easy-to-use, extensible metadata collection framework from the different cloud providers and on-prem sources and publish to Kafka.
 - [doctorkafka](https://github.com/pinterest/doctorkafka)
 - [topicctl](https://github.com/segmentio/topicctl) - A tool for easy, declarative management of Kafka topics. Includes the ability to "apply" topic changes from YAML as well as a repl for interactive exploration of brokers, topics, consumer groups, messages, and more.
 - [sarama](https://github.com/Shopify/sarama) - Sarama is an MIT-licensed Go client library for Apache Kafka version 0.8 (and later).
@@ -59,6 +60,7 @@
 - [akhq](https://akhq.io)
 
 ## Kafka Streams
+- [Dagger](https://github.com/odpf/dagger) - Dagger is an easy-to-use, SQL framework to process built on top of Apache Flink for stateful processing of Kafka data.
 - [schema-registry-ui](https://github.com/lensesio/schema-registry-ui)
 - [kafka-streams-consumer-offsets-to-json](https://github.com/sderosiaux/kafka-streams-consumer-offsets-to-json) - A Kafka Streams process to convert consumer_offsets to a JSON-readable topic.
 - [kafka-operator](https://github.com/krallistic/kafka-operator)
@@ -87,9 +89,9 @@
 - [snowflake-kafka-connector](https://github.com/snowflakedb/snowflake-kafka-connector)
 
 ## REST Proxy
-
 - [kafka-rest](https://github.com/confluentinc/kafka-rest) - Confluent REST Proxy
 - [strimzi-http-bridge](https://github.com/strimzi/strimzi-kafka-bridge) - Strimzi Kafka Bridge (AMQP & HTTP)
+- [Raccoon](https://github.com/odpf/raccoon) - Raccoon is a high-throughput, low-latency service to collect events in real-time from your web, mobile apps, and services using multiple network protocols and publish to Kafka.
 
 ## KSQL
 
@@ -98,6 +100,7 @@
 - [apicurio-registry](https://github.com/Apicurio/apicurio-registry) - Apicurio API/schema registry (includes UI)
 - [schema-registry](https://github.com/confluentinc/schema-registry) - Confluent Schema registry for Kafka
 - [ksql-jdbc-driver](https://github.com/mmolimar/ksql-jdbc-driver)
+- [Stencil](https://github.com/odpf/stencil) - Stencil is a Protobuf schema registry for Kafka that enables you to create, maintain and consume protobuf messages and APIs dynamically, efficiently, and reliably.
 
 ## Other Awesome Kafka
 
