@@ -57,6 +57,7 @@
 - [tsujun](https://github.com/matsumana/tsujun) - Yet another Web UI for KSQL.
 - [kowl](https://github.com/cloudhut/kowl)
 - [akhq](https://akhq.io)
+- [UI for Apache Kafka](http://github.com/provectus/kafka-ui)
 
 ## Kafka Streams
 - [schema-registry-ui](https://github.com/lensesio/schema-registry-ui)
