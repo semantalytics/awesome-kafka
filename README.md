@@ -45,6 +45,7 @@
 - [Kafka Manager](https://github.com/yahoo/kafka-manager) - Web-based tool for managing a Kafka cluster
 - [Kafdrop](https://github.com/obsidiandynamics/kafdrop) - Web UI for browsing Kafka topics and consumer groups
 - [Strimzi Kafka CLI](https://github.com/systemcraftsman/strimzi-kafka-cli) - A CLI for Strimzi Kafka Operator
+- [Kafka Cluster Kraft Mode - DockerCompose](https://github.com/minhhungit/kafka-kraft-cluster-docker-compose) - Workable kafka cluster with kraft mode using docker-compose
 
 ## Kafka UI
 - [kafka-topics-ui](https://github.com/lensesio/kafka-topics-ui)
