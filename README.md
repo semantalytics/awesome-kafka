@@ -91,6 +91,7 @@
 
 - [kafka-rest](https://github.com/confluentinc/kafka-rest) - Confluent REST Proxy
 - [strimzi-http-bridge](https://github.com/strimzi/strimzi-kafka-bridge) - Strimzi Kafka Bridge (AMQP & HTTP)
+- [Zilla](https://github.com/aklivity/zilla) - An API gateway built for event-driven architectures and streaming that supports standard protocols such as HTTP, SSE, gRPC and the native Kafka protocol.
 
 ## KSQL
 
