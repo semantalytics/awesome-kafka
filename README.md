@@ -40,7 +40,6 @@ A curated list of awesome Kafka [libraries](#libraries) and [resources](#resourc
 - [schema-registry-ui](https://github.com/landoop/schema-registry-ui) - Web tool for Avro Schema Registry.
 - [kafkacat](https://github.com/edenhill/kafkacat) - Generic command line non-JVM Apache Kafka producer and consumer.
 - [kafka-jackson](https://github.com/jcustenborder/kafka-jackson) - Kafka Serializer, Deserializer, and Serde for Jackson JSON.
-- [kafka-lag-based-assignor](https://github.com/grantneale/kafka-lag-based-assignor) - Kafka partition assignor that distributes lag evenly across a consumer group.
 - [kafkahq](https://github.com/tchiotludo/kafkahq) - Kafka GUI for topics, topics data, consumers group, schema registry, connect and more.
 - [secor](https://github.com/pinterest/secor) - Secor is a service implementing Kafka log persistence.
 - [reactive-kafka](https://github.com/akka/reactive-kafka) - Alpakka Kafka connector - Alpakka is a Reactive Enterprise Integration library for Java and Scala, based on Reactive Streams and Akka.
@@ -65,7 +64,6 @@ A curated list of awesome Kafka [libraries](#libraries) and [resources](#resourc
 - [sangrenel](https://github.com/jamiealquiza/sangrenel)
 - [Strimzi](https://github.com/strimzi/strimzi-kafka-operator) - Operator for deploying and running Apache Kafka on Kubernetes and OpenShift.
 - [Kafka Manager](https://github.com/yahoo/kafka-manager) - Web-based tool for managing a Kafka cluster.
-- [Kafdrop](https://github.com/obsidiandynamics/kafdrop) - Web UI for browsing Kafka topics and consumer groups.
 - [Strimzi Kafka CLI](https://github.com/systemcraftsman/strimzi-kafka-cli) - A CLI for Strimzi Kafka Operator.
 - [Kafka Cluster Kraft Mode - DockerCompose](https://github.com/minhhungit/kafka-kraft-cluster-docker-compose) - Workable kafka cluster with kraft mode using docker-compose.
 
@@ -73,7 +71,7 @@ A curated list of awesome Kafka [libraries](#libraries) and [resources](#resourc
 
 - [kafka-topics-ui](https://github.com/lensesio/kafka-topics-ui)
 - [kafka-connect-ui](https://github.com/landoop/kafka-connect-ui) - Web tool for Kafka Connect.
-- [kafdrop](https://github.com/obsidiandynamics/kafdrop)
+- [Kafdrop](https://github.com/obsidiandynamics/kafdrop) - Web UI for browsing Kafka topics and consumer groups.
 - [kafka-webview](https://github.com/SourceLabOrg/kafka-webview)
 - [kafka-view](https://github.com/fede1024/kafka-view)
 - [cruise-control-ui](https://github.com/linkedin/cruise-control-ui)
@@ -93,7 +91,6 @@ A curated list of awesome Kafka [libraries](#libraries) and [resources](#resourc
 
 ### Kafka Connect
 
-- [kafka-connect-file-pulse](https://github.com/streamthoughts/kafka-connect-file-pulse)
 - [Apache Camel Kafka Connect](https://camel.apache.org/camel-kafka-connector/latest/index.html) - 340+ Apache Camel components as Kafka Connect connectors.
 - [kafka-connect-client](https://github.com/SourceLabOrg/kafka-connect-client) - A kafka-connect REST api client for java.
 - [Confluent Connector Hub](https://www.confluent.io/product/connectors/)
@@ -107,7 +104,6 @@ A curated list of awesome Kafka [libraries](#libraries) and [resources](#resourc
 - [kafka-connect-transform-common](https://github.com/jcustenborder/kafka-connect-transform-common) - Common Transforms for Kafka Connect.
 - [aiven-kafka-connect-transforms](https://github.com/aiven/aiven-kafka-connect-transforms) - A collection of Single Message Transformations (SMTs) for Kafka Connect.
 - [kafka-connect-file-pulse](https://github.com/streamthoughts/kafka-connect-file-pulse) - a polyvalent, scalable and reliable, Kafka Connector that makes it easy to parse, transform and stream any file, in any format, into Apache Kafka.
-- [aiven-kafka-connect-transforms](https://github.com/aiven/aiven-kafka-connect-transforms)
 - [kafka-connect-http](https://github.com/thomaskwscott/kafka-connect-http)
 - [snowflake-kafka-connector](https://github.com/snowflakedb/snowflake-kafka-connector)
 
@@ -145,7 +141,6 @@ A curated list of awesome Kafka [libraries](#libraries) and [resources](#resourc
 - [Chronicle-Queue](https://github.com/OpenHFT/Chronicle-Queue)
 - [CorfuDB](https://github.com/CorfuDB/CorfuDB)
 - [GenStage](https://hexdocs.pm/gen_stage/GenStage.html)
-- [winton-kafa-streams](https://github.com/wintoncode/winton-kafka-streams) - A Python implementation of Apache Kafka Streams.
 - [faust](https://github.com/robinhood/faust) Python Stream Processing.
 - [redpanda](https://vectorized.io/)
 - [Meteor](https://github.com/obsidiandynamics/meteor) – Lightweight, broker-less alternative to Kafka for message streaming.
