@@ -37,7 +37,6 @@
 - [mirus](https://github.com/salesforce/mirus) - Mirus is a cross data-center data replication tool for Apache Kafka.
 - [kareldb](https://github.com/rayokota/kareldb) - A Relational Database Backed by Apache Kafka.
 - [kcache](https://github.com/rayokota/kcache) - An In-Memory Cache Backed by Apache Kafka.
-- [kafkaOffsetMonitor](https://github.com/quantifind/KafkaOffsetMonitor) - A little app to monitor the progress of kafka consumers and their lag wrt the queue.
 - [kafka-lag-based-assignor](https://github.com/grantneale/kafka-lag-based-assignor) - Kafka partition assignor that distributes lag evenly across a consumer group.
 - [kafka-pixy](https://github.com/mailgun/kafka-pixy) - Kafka-Pixy is a dual API (gRPC and REST) proxy for Kafka with automatic consumer group control.
 - [Burrow](https://github.com/linkedin/Burrow) - Kafka Consumer Lag Checking.
