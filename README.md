@@ -1,10 +1,13 @@
+<p align="center">
+  <br>
+  <img width="400" src="./awesome%20kafka.png" alt="logo of kafka-awesome repository">
+  <br>
+  <br>
+</p>
+
 # Awesome Kafka [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-![awesome kafka](./awesome%20kafka.png)
-
-A curated list of awesome Kafka [libraries](#libraries) and [resources](#resources).
-
-## Table of Contents
+> A curated list of awesome things related to Apache Kafka.
 
 - [Libraries](#libraries)
   - [Kafka](#kafka)
@@ -20,6 +23,8 @@ A curated list of awesome Kafka [libraries](#libraries) and [resources](#resourc
   - [Learning](#learning)
   - [Blogs](#blogs)
   - [Books](#books)
+
+<!-- md-parser-start -->
 
 ## Libraries
 
