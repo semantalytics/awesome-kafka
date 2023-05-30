@@ -153,7 +153,7 @@
 
 ### Learning
 
-- [Passionate Developer: Kafka Streams DSL vs processor API](http://mkuthan.github.io/blog/2017/11/02/kafka-streams-dsl-vs-processor-api/)
+- [Passionate Developer: Kafka Streams DSL vs processor API](https://mkuthan.github.io/blog/2017/11/02/kafka-streams-dsl-vs-processor-api/)
 - [Mastering Kafka Streams](https://jaceklaskowski.gitbooks.io/mastering-kafka-streams)
 - [Spark Streaming + Kafka Integration Guide](https://spark.apache.org/docs/latest/streaming-kafka-integration.html)
 
@@ -166,4 +166,4 @@
 
 - [Kafka Streams in Action](https://www.manning.com/books/kafka-streams-in-action)
 - [Kafka in Action](https://www.manning.com/books/kafka-in-action)
-- [Kafka the Definitive Guide](http://shop.oreilly.com/product/0636920044123.do)
+- [Kafka the Definitive Guide](https://shop.oreilly.com/product/0636920044123.do)
