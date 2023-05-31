@@ -9,6 +9,8 @@
 
 > A curated list of awesome things related to Apache Kafka.
 
+## Contents
+
 - [Libraries](#libraries)
   - [Kafka](#kafka)
   - [Kafka UI](#kafka-ui)
@@ -53,7 +55,7 @@
 - [kafka-websocket](https://github.com/b/kafka-websocket)
 - [kafka-unit](https://github.com/chbatey/kafka-unit)
 - [cruise-control](https://github.com/linkedin/cruise-control) - Cruise-control is the first of its kind to fully automate the dynamic workload rebalance and self-healing of a kafka cluster.
-- [jocko](https://github.com/travisjeffery/jocko) - Kafka implemented in Golang with built-in coordination (No ZK dep, single binary install, Cloud Native)
+- [jocko](https://github.com/travisjeffery/jocko) - Kafka implemented in Golang with built-in coordination (No ZK dep, single binary install, Cloud Native).
 - [hermes](https://github.com/allegro/hermes) - Fast and reliable message broker built on top of Kafka.
 - [kt](https://github.com/fgeller/kt) - Kafka command line tool.
 - [kafka-eagle](https://github.com/smartloli/kafka-eagle) - Used to monitor the consumer status of Kafka clusters, as well as offsets, metadata and other information.
@@ -107,14 +109,14 @@
 - [connectctl](https://github.com/90poe/connectctl) - Manage kafka connect connectors easily.
 - [kafka-connect-transform-common](https://github.com/jcustenborder/kafka-connect-transform-common) - Common Transforms for Kafka Connect.
 - [aiven-kafka-connect-transforms](https://github.com/aiven/aiven-kafka-connect-transforms) - A collection of Single Message Transformations (SMTs) for Kafka Connect.
-- [kafka-connect-file-pulse](https://github.com/streamthoughts/kafka-connect-file-pulse) - a polyvalent, scalable and reliable, Kafka Connector that makes it easy to parse, transform and stream any file, in any format, into Apache Kafka.
+- [kafka-connect-file-pulse](https://github.com/streamthoughts/kafka-connect-file-pulse) - A polyvalent, scalable and reliable, Kafka Connector that makes it easy to parse, transform and stream any file, in any format, into Apache Kafka.
 - [kafka-connect-http](https://github.com/thomaskwscott/kafka-connect-http)
 - [snowflake-kafka-connector](https://github.com/snowflakedb/snowflake-kafka-connector)
 
 ### REST Proxy
 
 - [kafka-rest](https://github.com/confluentinc/kafka-rest) - Confluent REST Proxy.
-- [strimzi-http-bridge](https://github.com/strimzi/strimzi-kafka-bridge) - Strimzi Kafka Bridge (AMQP & HTTP)
+- [strimzi-http-bridge](https://github.com/strimzi/strimzi-kafka-bridge) - Strimzi Kafka Bridge (AMQP & HTTP).
 - [Zilla](https://github.com/aklivity/zilla) - An API gateway built for event-driven architectures and streaming that supports standard protocols such as HTTP, SSE, gRPC, MQTT and the native Kafka protocol.
 
 ### KSQL
@@ -145,9 +147,9 @@
 - [Chronicle-Queue](https://github.com/OpenHFT/Chronicle-Queue)
 - [CorfuDB](https://github.com/CorfuDB/CorfuDB)
 - [GenStage](https://hexdocs.pm/gen_stage/GenStage.html)
-- [faust](https://github.com/robinhood/faust) Python Stream Processing.
+- [faust](https://github.com/robinhood/faust) - Python Stream Processing.
 - [redpanda](https://vectorized.io/)
-- [Meteor](https://github.com/obsidiandynamics/meteor) – Lightweight, broker-less alternative to Kafka for message streaming.
+- [Meteor](https://github.com/obsidiandynamics/meteor) - Lightweight, broker-less alternative to Kafka for message streaming.
 
 ## Resources
 
@@ -159,7 +161,7 @@
 
 ### Blogs
 
-- [CodingJunkie](http://codingjunkie.net/) Random Thoughts on Coding by Bill Bejeck.
+- [CodingJunkie](http://codingjunkie.net/) - Random Thoughts on Coding by Bill Bejeck.
 - [Understanding Kafka with Factorio](https://hackernoon.com/understanding-kafka-with-factorio-74e8fc9bf181)
 
 ### Books
