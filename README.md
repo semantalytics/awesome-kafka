@@ -76,6 +76,7 @@
 
 ### Kafka UI
 
+- [KafkaTrail](https://github.com/imkrishnaagrawal/KafkaTrail)
 - [kafka-topics-ui](https://github.com/lensesio/kafka-topics-ui)
 - [kafka-connect-ui](https://github.com/landoop/kafka-connect-ui) - Web tool for Kafka Connect.
 - [Kafdrop](https://github.com/obsidiandynamics/kafdrop) - Web UI for browsing Kafka topics and consumer groups.
