@@ -165,6 +165,15 @@
 
 - [CodingJunkie](http://codingjunkie.net/) - Random Thoughts on Coding by Bill Bejeck.
 - [Understanding Kafka with Factorio](https://hackernoon.com/understanding-kafka-with-factorio-74e8fc9bf181)
+- [Use External Schema Registry With MSK Connect – Part 1 Local Development](https://jaehyeon.me/blog/2022-03-07-schema-registry-part1/)
+- [Use External Schema Registry With MSK Connect – Part 2 MSK Deployment](https://jaehyeon.me/blog/2022-04-03-schema-registry-part2/)
+- [How to Configure Kafka Consumers to Seek Offsets by Timestamp](https://jaehyeon.me/blog/2023-01-10-kafka-consumer-seek-offsets/)
+- [Simplify Streaming Ingestion on AWS – Part 1 MSK and Redshift](https://jaehyeon.me/blog/2023-02-08-simplify-streaming-ingestion-redshift/)
+- [Simplify Streaming Ingestion on AWS – Part 2 MSK and Athena](https://jaehyeon.me/blog/2023-03-14-simplify-streaming-ingestion-athena/)
+- [Integrate Glue Schema Registry With Your Python Kafka App](https://jaehyeon.me/blog/2023-04-12-integrate-glue-schema-registry/)
+- [Data Lake Demo Using Change Data Capture (CDC) on AWS – Part 1 Local Development](https://jaehyeon.me/blog/2021-12-05-datalake-demo-part1/)
+- [Data Lake Demo Using Change Data Capture (CDC) on AWS – Part 2 Implement CDC](https://jaehyeon.me/blog/2021-12-12-datalake-demo-part2/)
+- [Data Lake Demo Using Change Data Capture (CDC) on AWS – Part 3 Implement Data Lake](https://jaehyeon.me/blog/2021-12-19-datalake-demo-part3/)
 
 ### Books
 
