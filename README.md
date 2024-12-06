@@ -136,6 +136,7 @@
 - [dharmeshkakadia/awesome-kafka](https://github.com/dharmeshkakadia/awesome-kafka)
 - [infoslack/awesome-kafka](https://github.com/infoslack/awesome-kafka)
 - [awesome-kafka-playground](https://github.com/anascotti/awesome-kafka-playground)
+- [ballerina-avro-kafka-serializer](https://github.com/ballerina-platform/module-ballerinax-confluent.cavroserdes) - Ballerina Confluent Avro Serializer/Deserializer
 
 ### Kafkaesque
 
