@@ -128,6 +128,7 @@
 - [apicurio-registry](https://github.com/Apicurio/apicurio-registry) - Apicurio API/schema registry (includes UI).
 - [schema-registry](https://github.com/confluentinc/schema-registry) - Confluent Schema registry for Kafka.
 - [ksql-jdbc-driver](https://github.com/mmolimar/ksql-jdbc-driver)
+- [ballerina-schema-registry](https://github.com/ballerina-platform/module-ballerinax-confluent.cregistry) - Ballerina Confluent Schema Registry
 
 ### Other Awesome Kafka
 
@@ -135,6 +136,7 @@
 - [dharmeshkakadia/awesome-kafka](https://github.com/dharmeshkakadia/awesome-kafka)
 - [infoslack/awesome-kafka](https://github.com/infoslack/awesome-kafka)
 - [awesome-kafka-playground](https://github.com/anascotti/awesome-kafka-playground)
+- [ballerina-avro-kafka-serializer](https://github.com/ballerina-platform/module-ballerinax-confluent.cavroserdes) - Ballerina Confluent Avro Serializer/Deserializer
 
 ### Kafkaesque
 
