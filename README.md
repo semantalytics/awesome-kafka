@@ -154,6 +154,7 @@
 - [faust](https://github.com/robinhood/faust) - Python Stream Processing.
 - [redpanda](https://vectorized.io/)
 - [Meteor](https://github.com/obsidiandynamics/meteor) - Lightweight, broker-less alternative to Kafka for message streaming.
+- [Bufstream](https://buf.build/product/bufstream) - Store directly to Apache Iceberg™ tables and guarantee data quality with Bufstream, a drop-in replacement for Apache Kafka®.
 
 ## Resources
 
