@@ -73,6 +73,7 @@
 - [Strimzi Kafka CLI](https://github.com/systemcraftsman/strimzi-kafka-cli) - A CLI for Strimzi Kafka Operator.
 - [Kafka Cluster Kraft Mode - DockerCompose](https://github.com/minhhungit/kafka-kraft-cluster-docker-compose) - Workable kafka cluster with kraft mode using docker-compose.
 - [Decaton](https://github.com/line/decaton) - High throughput asynchronous task processing framework
+- [kroxylicious](https://github.com/kroxylicious/kroxylicious) - Kroxylicious is a proxy for Apache Kafka, solving problems like encryption-at-rest, multi-tenancy and more.
 
 ### Kafka UI
 
