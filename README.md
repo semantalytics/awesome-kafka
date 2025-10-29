@@ -87,6 +87,8 @@
 - [tsujun](https://github.com/matsumana/tsujun) - Yet another Web UI for KSQL.
 - [kowl](https://github.com/cloudhut/kowl)
 - [akhq](https://akhq.io)
+- [kafka-ui-jetbrains](https://plugins.jetbrains.com/plugin/28167-kafka-ui-manage-your-kafka-clusters-produce-and-view-messages) - Manage Apache Kafka directly from your JetBrains IDE.
+- [kafka-ui-vs-code](https://marketplace.visualstudio.com/items?itemName=Aiven.aiven-kafkaui-vscode-extension) - Manage Apache Kafka directly from VS Code.
 
 ### Kafka Streams
 
@@ -163,6 +165,7 @@
 - [Passionate Developer: Kafka Streams DSL vs processor API](https://mkuthan.github.io/blog/2017/11/02/kafka-streams-dsl-vs-processor-api/)
 - [Mastering Kafka Streams](https://jaceklaskowski.gitbooks.io/mastering-kafka-streams)
 - [Spark Streaming + Kafka Integration Guide](https://spark.apache.org/docs/latest/streaming-kafka-integration.html)
+- [Kafka Data Visualization](https://aiven.io/tools/kafka-visualization)
 
 ### Blogs
 
