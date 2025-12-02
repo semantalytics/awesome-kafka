@@ -32,7 +32,8 @@
 
 ### Kafka
 
-- [lenses](https://lenses.io): Provides a unified, self-service management layer and powerful SQL tooling for developers and operators to govern, secure, and operate real-time data applications and multiple Apache Kafka clusters (including monitoring, configuration, and access control) across diverse environments, while also offering a free Community Edition and the Lenses K2K for  Kafka data replication.
+- [lenses](https://lenses.io): Provides a unified, self-service management layer and powerful SQL tooling for developers and operators to govern, secure, and operate real-time data applications and multiple Apache Kafka clusters (including monitoring, configuration, and access control) across diverse environments, offering a free Community Edition that can be used through UI and with AI copilots via MCP.
+- [lenses k2k](https://lenses.io/kafka-replication) A Kafka replicator
 - [topicctl](https://github.com/segmentio/topicctl) - A tool for easy, declarative management of Kafka topics. Includes the ability to "apply" topic changes from YAML as well as a repl for interactive exploration of brokers, topics, consumer groups, messages, and more.
 - [sarama](https://github.com/Shopify/sarama) - Sarama is an MIT-licensed Go client library for Apache Kafka version 0.8 (and later).
 - [kadeck](https://www.xeotek.com/kadeck/) - Apache Kafka Monitoring, Kafka UI and data platform for Desktop or Web.
