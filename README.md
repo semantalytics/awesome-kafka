@@ -32,6 +32,7 @@
 
 ### Kafka
 
+- [lenses](https://lenses.io): Provides a unified, self-service management layer and powerful SQL tooling for developers and operators to govern, secure, and operate real-time data applications and multiple Apache Kafka clusters (including monitoring, configuration, and access control) across diverse environments, while also offering a free Community Edition and the Lenses K2K for  Kafka data replication.
 - [topicctl](https://github.com/segmentio/topicctl) - A tool for easy, declarative management of Kafka topics. Includes the ability to "apply" topic changes from YAML as well as a repl for interactive exploration of brokers, topics, consumer groups, messages, and more.
 - [sarama](https://github.com/Shopify/sarama) - Sarama is an MIT-licensed Go client library for Apache Kafka version 0.8 (and later).
 - [kadeck](https://www.xeotek.com/kadeck/) - Apache Kafka Monitoring, Kafka UI and data platform for Desktop or Web.
@@ -102,6 +103,7 @@
 - [Apache Camel Kafka Connect](https://camel.apache.org/camel-kafka-connector/latest/index.html) - 340+ Apache Camel components as Kafka Connect connectors.
 - [kafka-connect-client](https://github.com/SourceLabOrg/kafka-connect-client) - A kafka-connect REST api client for java.
 - [Confluent Connector Hub](https://www.confluent.io/product/connectors/)
+- [Lenses.io Connectors](https://lenses.io/kafka-connectors) Contains connectors allowing backup and restore to S3, Azure, GCS, MQTT sink-source, JMS sink-source, and many more.
 - [kafka-connect-protobuf-converter](https://github.com/blueapron/kafka-connect-protobuf-converter) - Protobuf converter plugin for Kafka Connect.
 - [Maxwell](https://github.com/zendesk/maxwell)
 - [kafka-connect-transformers](https://github.com/Landoop/kafka-connect-transformers)
