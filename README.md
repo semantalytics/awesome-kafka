@@ -175,3 +175,4 @@
 - [Kafka in Action](https://www.manning.com/books/kafka-in-action)
 - [Kafka the Definitive Guide](https://shop.oreilly.com/product/0636920044123.do)
 - [Streaming Data Pipelines with Kafka](https://www.manning.com/books/streaming-data-pipelines-with-kafka)
+- [Kafka for Architects](https://www.manning.com/books/kafka-for-architects)
