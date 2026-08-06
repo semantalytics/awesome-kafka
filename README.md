@@ -70,7 +70,7 @@
 - [sangrenel](https://github.com/jamiealquiza/sangrenel)
 - [Strimzi](https://github.com/strimzi/strimzi-kafka-operator) - Operator for deploying and running Apache Kafka on Kubernetes and OpenShift.
 - [Kafka Manager](https://github.com/yahoo/kafka-manager) - Web-based tool for managing a Kafka cluster.
-- [Strimzi Kafka CLI](https://github.com/systemcraftsman/strimzi-kafka-cli) - A CLI for Strimzi Kafka Operator.
+- [Strimzi Kafka CLI](https://strimzi-cli.dev) - A CLI for Strimzi Kafka Operator.
 - [Kafka Cluster Kraft Mode - DockerCompose](https://github.com/minhhungit/kafka-kraft-cluster-docker-compose) - Workable kafka cluster with kraft mode using docker-compose.
 - [Decaton](https://github.com/line/decaton) - High throughput asynchronous task processing framework
 
