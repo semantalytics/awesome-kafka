@@ -87,6 +87,7 @@
 - [tsujun](https://github.com/matsumana/tsujun) - Yet another Web UI for KSQL.
 - [kowl](https://github.com/cloudhut/kowl)
 - [akhq](https://akhq.io)
+- [Streambench](https://streambench.app) - Kafka GUI for Mac OS
 
 ### Kafka Streams
 
