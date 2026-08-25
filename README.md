@@ -80,6 +80,7 @@
 - [kafka-topics-ui](https://github.com/lensesio/kafka-topics-ui)
 - [kafka-connect-ui](https://github.com/landoop/kafka-connect-ui) - Web tool for Kafka Connect.
 - [Kafdrop](https://github.com/obsidiandynamics/kafdrop) - Web UI for browsing Kafka topics and consumer groups.
+- [Kaflow Search](https://github.com/whsoul/kaflow-search) - Purpose-built desktop search tool for Kafka messages, using local indexes for repeated searches across keys, headers, and payloads.
 - [kafka-webview](https://github.com/SourceLabOrg/kafka-webview)
 - [kafka-view](https://github.com/fede1024/kafka-view)
 - [cruise-control-ui](https://github.com/linkedin/cruise-control-ui)
